@@ -1,0 +1,751 @@
+doc_id,doc_type,custodian,date,snippet,ground_truth,confidence_score
+DOC-0507,email,Lisa Fernandez,2023-06-02,IT security tip: do not click suspicious links,0,0.2696
+DOC-0358,financial,Yuki Tanaka,2020-04-14,Re: Company picnic photos — link to shared album,0,0.2913
+DOC-0134,email,Diane Tran,2020-12-18,Attached: amended NDA with Acme Corp — please review before Friday,1,0.669
+DOC-0251,contract,Diane Tran,2022-06-30,"Re: Coffee machine — broken again, sorry team",0,0.1688
+DOC-0300,contract,Craig Morrow,2019-08-22,Re: Onboarding checklist — new hire starting Monday,0,0.2195
+DOC-0681,email,Alistair Ford,2019-11-14,Re: Conference room booking — Friday afternoon taken,0,0.2839
+DOC-0337,email,Sergio Reyes,2020-11-05,Re: Office plants — anyone want to take them home for the holidays?,0,0.0988
+DOC-0156,contract,Tom Dobbins,2023-02-21,IT security tip: do not click suspicious links,0,0.2621
+DOC-0529,financial,Craig Morrow,2020-12-10,Re: Holiday party planning — venue suggestions welcome,0,0.0944
+DOC-0737,email,Tom Dobbins,2022-09-26,Reminder: expense reports due by end of month,0,0.4726
+DOC-0098,email,Alistair Ford,2022-10-05,Attached: board minutes approving the acquisition of Vantage LLC,1,0.486
+DOC-0307,email,Jane Hartwell,2022-12-28,Please welcome David Kim to the Boston office!,0,0.1981
+DOC-0282,email,Derek Okonkwo,2023-01-11,FYI: Vending machine refilled with healthier options,0,0.149
+DOC-0747,email,Yuki Tanaka,2020-07-04,Re: Ergonomic chair requests — facilities form attached,0,0.4327
+DOC-0212,memo,Craig Morrow,2020-01-28,Please welcome David Kim to the Boston office!,0,0.1334
+DOC-0267,email,Craig Morrow,2022-06-16,FYI: Vending machine refilled with healthier options,0,0.1559
+DOC-0040,contract,Rachel Bloom,2021-01-30,Action required: antitrust compliance review of market share data,1,0.8815
+DOC-0248,email,Derek Okonkwo,2023-06-10,Birthday card for Susan in accounting — please sign by Friday,0,0.2866
+DOC-0363,email,Brian Kowalski,2019-11-28,IT reminder: your password expires in 7 days,0,0.4941
+DOC-0539,email,Sergio Reyes,2019-01-09,Re: Office plants — anyone want to take them home for the holidays?,0,0.1325
+DOC-0458,memo,Craig Morrow,2020-07-08,Re: Monday team lunch — Panera or Chipotle?,0,0.2087
+DOC-0500,memo,Sandra Wu,2023-11-14,Re: Ergonomic chair requests — facilities form attached,0,0.3024
+DOC-0423,email,Brian Kowalski,2023-04-04,IT: New printer driver installed on floor 3,0,0.0343
+DOC-0320,meeting_notes,Sandra Wu,2023-08-19,IT reminder: your password expires in 7 days,0,0.3169
+DOC-0067,memo,Sergio Reyes,2019-06-08,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.7984
+DOC-0709,email,Tom Dobbins,2021-07-24,Annual benefits enrollment closes November 15,0,0.2844
+DOC-0249,email,Brian Kowalski,2019-02-28,"FYI: office kitchen cleaned, please label your food",0,0.476
+DOC-0329,contract,Rachel Bloom,2023-11-04,Reminder: expense reports due by end of month,0,0.2721
+DOC-0219,meeting_notes,Lisa Fernandez,2019-02-19,Annual performance review schedule now posted on the intranet,0,0.4504
+DOC-0221,email,Marcus Chen,2023-06-17,"Free training session: Excel pivot tables, Tues 3 PM",0,0.0624
+DOC-0353,memo,Lisa Fernandez,2022-11-25,Re: Fantasy football league — week 8 results,0,0.07
+DOC-0469,email,Brian Kowalski,2021-11-24,Re: Office plants — anyone want to take them home for the holidays?,0,0.315
+DOC-0454,email,Lisa Fernandez,2023-03-09,"Re: Coffee machine — broken again, sorry team",0,0.2983
+DOC-0343,financial,Brian Kowalski,2021-08-29,Birthday card for Susan in accounting — please sign by Friday,0,0.1603
+DOC-0370,meeting_notes,Neha Sharma,2023-09-22,Re: Fantasy football league — week 8 results,0,0.4195
+DOC-0079,memo,Marcus Chen,2019-02-18,Re: Exclusive supply agreement — Clause 7 update,1,0.7494
+DOC-0211,contract,Derek Okonkwo,2020-09-12,Re: Update on office expansion to floor 6,0,0.3107
+DOC-0433,contract,Brian Kowalski,2020-12-12,Parking reminder: garage B level 2 reserved for visitors,0,0.2393
+DOC-0082,email,Tom Dobbins,2023-04-20,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.8732
+DOC-0413,email,Jane Hartwell,2019-10-01,Parking reminder: garage B level 2 reserved for visitors,0,0.355
+DOC-0078,contract,Neha Sharma,2019-11-03,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.9429
+DOC-0678,memo,Craig Morrow,2020-08-08,Reminder: submit your timesheet before noon Friday,0,0.1786
+DOC-0034,email,Priya Nair,2022-12-08,FWD: Confidential settlement terms — do not distribute,1,0.8505
+DOC-0121,memo,Tom Dobbins,2019-03-22,Re: Financial restatement — accounting irregularities identified,1,0.9894
+DOC-0689,financial,Lisa Fernandez,2023-07-06,Annual performance review schedule now posted on the intranet,0,0.0526
+DOC-0571,email,Priya Nair,2021-09-13,Reminder: submit your timesheet before noon Friday,0,0.3924
+DOC-0582,memo,Marcus Chen,2022-12-23,FYI: Vending machine refilled with healthier options,0,0.2494
+DOC-0498,contract,Sergio Reyes,2023-01-16,Annual benefits enrollment closes November 15,0,0.1181
+DOC-0395,email,Priya Nair,2021-04-05,"Re: Coffee machine — broken again, sorry team",0,0.3497
+DOC-0441,meeting_notes,Priya Nair,2022-08-24,Re: Update on office expansion to floor 6,0,0.3576
+DOC-0011,email,Derek Okonkwo,2019-02-13,Confidential: internal audit report Q2 — do not forward,1,0.8899
+DOC-0501,contract,Diane Tran,2020-03-23,IT reminder: your password expires in 7 days,0,0.2614
+DOC-0369,email,Jane Hartwell,2022-04-13,FYI: building fire drill Wednesday at 10 AM,0,0.3063
+DOC-0325,financial,Neha Sharma,2022-11-11,Re: Ergonomic chair requests — facilities form attached,0,0.2269
+DOC-0468,meeting_notes,Craig Morrow,2022-06-13,Re: All-hands meeting — agenda attached,0,0.1524
+DOC-0110,meeting_notes,Marcus Chen,2020-01-16,PRIVILEGED: Attorney-client communication re: pending litigation,1,0.7481
+DOC-0543,financial,Neha Sharma,2022-08-10,Birthday card for Susan in accounting — please sign by Friday,0,0.1585
+DOC-0077,email,Yuki Tanaka,2020-09-16,FWD: Confidential settlement terms — do not distribute,1,0.8068
+DOC-0491,contract,Craig Morrow,2019-12-05,Re: Fantasy football league — week 8 results,0,0.5928
+DOC-0055,contract,Lisa Fernandez,2023-07-30,FWD: Discriminatory hiring policy — HR flagged for review,1,0.8642
+DOC-0255,email,Rachel Bloom,2019-04-03,Re: All-hands meeting — agenda attached,0,0.4372
+DOC-0205,email,Diane Tran,2023-02-23,Please welcome David Kim to the Boston office!,0,0.2163
+DOC-0717,memo,Lisa Fernandez,2020-03-14,"Re: Coffee machine — broken again, sorry team",0,0.2429
+DOC-0708,financial,Brian Kowalski,2021-06-06,FYI: Vending machine refilled with healthier options,0,0.23
+DOC-0260,memo,Yuki Tanaka,2019-08-11,FYI: building fire drill Wednesday at 10 AM,0,0.027
+DOC-0228,memo,Yuki Tanaka,2019-11-18,Reminder: expense reports due by end of month,0,0.1288
+DOC-0291,financial,Yuki Tanaka,2020-06-12,FYI: building fire drill Wednesday at 10 AM,0,0.1455
+DOC-0066,memo,Lisa Fernandez,2019-01-01,Re: Environmental compliance exemption request — urgent,1,0.7696
+DOC-0429,email,Priya Nair,2021-11-23,Reminder: submit your timesheet before noon Friday,0,0.2932
+DOC-0650,email,Brian Kowalski,2020-01-04,FYI: Vending machine refilled with healthier options,0,0.4466
+DOC-0427,email,Derek Okonkwo,2023-10-22,Annual benefits enrollment closes November 15,0,0.1145
+DOC-0440,contract,Tom Dobbins,2023-11-28,Re: Onboarding checklist — new hire starting Monday,0,0.0964
+DOC-0261,email,Derek Okonkwo,2019-12-30,Re: Ergonomic chair requests — facilities form attached,0,0.2167
+DOC-0606,financial,Sandra Wu,2019-05-22,"FYI: office kitchen cleaned, please label your food",0,0.212
+DOC-0741,email,Tom Dobbins,2021-04-12,Parking reminder: garage B level 2 reserved for visitors,0,0.2882
+DOC-0424,email,Lisa Fernandez,2019-12-09,Reminder: expense reports due by end of month,0,0.3675
+DOC-0486,email,Neha Sharma,2019-09-12,Re: Monday team lunch — Panera or Chipotle?,0,0.3727
+DOC-0073,meeting_notes,Neha Sharma,2020-09-09,PRIVILEGED: Attorney-client communication re: pending litigation,1,0.7078
+DOC-0214,financial,Neha Sharma,2021-12-05,Re: Update on office expansion to floor 6,0,0.1197
+DOC-0372,email,Tom Dobbins,2020-12-17,Re: All-hands meeting — agenda attached,0,0.3119
+DOC-0240,email,Tom Dobbins,2020-10-14,IT reminder: your password expires in 7 days,0,0.3472
+DOC-0064,financial,Diane Tran,2019-04-07,FWD: Confidential settlement terms — do not distribute,1,0.8455
+DOC-0642,financial,Diane Tran,2021-11-03,Quarterly newsletter from HR — summer edition,0,0.1618
+DOC-0600,contract,Tom Dobbins,2020-10-21,IT: New printer driver installed on floor 3,0,0.3346
+DOC-0050,email,Jane Hartwell,2023-06-18,Executive briefing: regulatory inquiry response strategy,1,0.8061
+DOC-0356,memo,Brian Kowalski,2022-10-10,Re: Ergonomic chair requests — facilities form attached,0,0.2691
+DOC-0710,memo,Priya Nair,2021-05-22,IT security tip: do not click suspicious links,0,0.1345
+DOC-0495,financial,Neha Sharma,2019-12-29,Quarterly newsletter from HR — summer edition,0,0.3575
+DOC-0669,email,Sergio Reyes,2023-03-31,FYI: building fire drill Wednesday at 10 AM,0,0.0958
+DOC-0008,financial,Craig Morrow,2022-04-06,Re: Side letter agreement with preferred customers,1,0.7141
+DOC-0552,email,Sandra Wu,2021-03-23,Re: Office plants — anyone want to take them home for the holidays?,0,0.3172
+DOC-0024,meeting_notes,Priya Nair,2021-04-21,Action required: antitrust compliance review of market share data,1,0.5809
+DOC-0631,meeting_notes,Alistair Ford,2019-03-16,Re: Ergonomic chair requests — facilities form attached,0,0.3946
+DOC-0746,memo,Brian Kowalski,2022-02-25,Annual performance review schedule now posted on the intranet,0,0.2125
+DOC-0102,contract,Neha Sharma,2022-10-01,FWD: Confidential settlement terms — do not distribute,1,0.5532
+DOC-0334,meeting_notes,Marcus Chen,2022-04-17,IT security tip: do not click suspicious links,0,0.4149
+DOC-0494,email,Rachel Bloom,2023-09-25,FYI: Vending machine refilled with healthier options,0,0.1758
+DOC-0287,email,Priya Nair,2020-08-18,Re: Fantasy football league — week 8 results,0,0.0465
+DOC-0119,email,Marcus Chen,2019-10-24,Re: Q3 pricing strategy discussion — see attached amended proposal,1,0.8399
+DOC-0175,email,Alistair Ford,2020-09-28,Annual performance review schedule now posted on the intranet,0,0.229
+DOC-0087,contract,Brian Kowalski,2021-04-09,Action required: antitrust compliance review of market share data,1,0.978
+DOC-0704,meeting_notes,Derek Okonkwo,2021-03-07,Quarterly newsletter from HR — summer edition,0,0.1662
+DOC-0003,meeting_notes,Tom Dobbins,2020-03-20,Attached: product liability study — internal use only,1,0.9073
+DOC-0728,email,Diane Tran,2023-06-25,Re: Office plants — anyone want to take them home for the holidays?,0,0.1983
+DOC-0159,contract,Brian Kowalski,2021-04-27,"Free training session: Excel pivot tables, Tues 3 PM",0,0.2649
+DOC-0031,contract,Marcus Chen,2022-10-24,Executive briefing: regulatory inquiry response strategy,1,0.9564
+DOC-0623,hr_document,Yuki Tanaka,2023-02-02,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.345
+DOC-0697,contract,Sandra Wu,2021-12-10,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.0862
+DOC-0447,hr_document,Priya Nair,2019-08-22,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.6114
+DOC-0165,memo,Craig Morrow,2020-11-09,Re: Fantasy football league — week 8 results,0,0.2534
+DOC-0656,email,Craig Morrow,2023-04-27,Annual benefits enrollment closes November 15,0,0.2701
+DOC-0514,email,Diane Tran,2019-03-07,"FYI: office kitchen cleaned, please label your food",0,0.2225
+DOC-0182,meeting_notes,Jane Hartwell,2021-08-10,Re: Holiday party planning — venue suggestions welcome,0,0.5702
+DOC-0573,memo,Lisa Fernandez,2019-08-20,"Free training session: Excel pivot tables, Tues 3 PM",0,0.0626
+DOC-0406,meeting_notes,Tom Dobbins,2021-10-28,"Re: Coffee machine — broken again, sorry team",0,0.3693
+DOC-0621,financial,Neha Sharma,2020-05-30,Annual performance review schedule now posted on the intranet,0,0.0938
+DOC-0605,hr_document,Diane Tran,2022-08-14,Quarterly newsletter from HR — summer edition,0,0.412
+DOC-0301,financial,Jane Hartwell,2022-04-09,Re: Team outing — kayaking vs. escape room vote,0,0.2491
+DOC-0683,email,Rachel Bloom,2019-10-23,Parking reminder: garage B level 2 reserved for visitors,0,0.002
+DOC-0085,email,Rachel Bloom,2021-10-06,Re: Whistleblower complaint — HR investigation findings,1,0.6998
+DOC-0405,hr_document,Sandra Wu,2023-04-02,Reminder: expense reports due by end of month,0,0.2791
+DOC-0080,financial,Rachel Bloom,2019-09-26,FWD: Rig bidding coordination — Thursday call confirmed,1,0.874
+DOC-0619,email,Yuki Tanaka,2023-04-20,Re: Ergonomic chair requests — facilities form attached,0,0.1835
+DOC-0303,memo,Lisa Fernandez,2020-01-31,IT: New printer driver installed on floor 3,0,0.5339
+DOC-0651,email,Sandra Wu,2021-07-15,Re: Fantasy football league — week 8 results,0,0.039
+DOC-0197,memo,Craig Morrow,2022-11-12,Parking reminder: garage B level 2 reserved for visitors,0,0.2693
+DOC-0032,hr_document,Jane Hartwell,2020-10-06,Re: Destruction of records — legal hold notice to follow,1,0.664
+DOC-0583,email,Sandra Wu,2020-07-01,Parking reminder: garage B level 2 reserved for visitors,0,0.162
+DOC-0266,email,Sergio Reyes,2023-02-05,Re: Team outing — kayaking vs. escape room vote,0,0.5008
+DOC-0674,contract,Neha Sharma,2021-09-13,Re: Monday team lunch — Panera or Chipotle?,0,0.4255
+DOC-0235,meeting_notes,Brian Kowalski,2020-09-19,Re: Dress code reminder for client visit Thursday,0,0.6305
+DOC-0056,financial,Priya Nair,2019-06-25,Re: Executive compensation revision — approval pending,1,0.8995
+DOC-0213,email,Diane Tran,2021-05-15,"Re: Coffee machine — broken again, sorry team",0,0.3818
+DOC-0336,contract,Priya Nair,2021-10-08,Parking reminder: garage B level 2 reserved for visitors,0,0.0512
+DOC-0519,email,Alistair Ford,2021-05-23,"Free training session: Excel pivot tables, Tues 3 PM",0,0.3108
+DOC-0362,email,Sandra Wu,2023-08-20,FYI: Vending machine refilled with healthier options,0,0.321
+DOC-0216,contract,Diane Tran,2019-12-23,Re: All-hands meeting — agenda attached,0,0.1868
+DOC-0330,email,Sergio Reyes,2021-11-02,Quarterly newsletter from HR — summer edition,0,0.2448
+DOC-0061,contract,Sandra Wu,2020-05-27,PRIVILEGED: Attorney-client communication re: pending litigation,1,0.5517
+DOC-0738,email,Sandra Wu,2022-11-27,Re: Office plants — anyone want to take them home for the holidays?,0,0.1577
+DOC-0382,meeting_notes,Tom Dobbins,2022-05-26,Reminder: submit your timesheet before noon Friday,0,0.2212
+DOC-0166,email,Derek Okonkwo,2021-06-06,FYI: building fire drill Wednesday at 10 AM,0,0.228
+DOC-0645,contract,Derek Okonkwo,2020-04-20,Re: Update on office expansion to floor 6,0,0.1974
+DOC-0432,financial,Craig Morrow,2019-07-04,Reminder: submit your timesheet before noon Friday,0,0.3553
+DOC-0149,email,Sergio Reyes,2020-04-04,Memo: Employee monitoring program expansion — legal sign-off needed,1,0.8806
+DOC-0463,meeting_notes,Priya Nair,2023-09-12,Re: Company picnic photos — link to shared album,0,0.4279
+DOC-0091,email,Neha Sharma,2021-02-11,Re: Whistleblower complaint — HR investigation findings,1,0.8295
+DOC-0394,contract,Alistair Ford,2021-04-30,Re: Holiday party planning — venue suggestions welcome,0,0.1611
+DOC-0686,email,Sandra Wu,2020-02-22,"FYI: office kitchen cleaned, please label your food",0,0.1409
+DOC-0070,email,Sergio Reyes,2022-11-14,Attached: amended NDA with Acme Corp — please review before Friday,1,0.6791
+DOC-0596,email,Neha Sharma,2021-04-12,Please welcome David Kim to the Boston office!,0,0.1219
+DOC-0132,meeting_notes,Diane Tran,2021-03-29,FWD: Rig bidding coordination — Thursday call confirmed,1,0.9196
+DOC-0045,financial,Tom Dobbins,2022-07-27,Action required: antitrust compliance review of market share data,1,0.9464
+DOC-0071,email,Marcus Chen,2019-06-30,Re: Side letter agreement with preferred customers,1,0.7981
+DOC-0673,hr_document,Sergio Reyes,2019-08-14,Re: Dress code reminder for client visit Thursday,0,0.1639
+DOC-0209,email,Tom Dobbins,2021-05-16,FYI: building fire drill Wednesday at 10 AM,0,0.3835
+DOC-0345,financial,Neha Sharma,2020-07-11,Congratulations to the sales team on Q3 results!,0,0.3094
+DOC-0624,memo,Rachel Bloom,2020-02-04,Re: Ergonomic chair requests — facilities form attached,0,0.2953
+DOC-0136,email,Yuki Tanaka,2023-05-17,Re: Q3 pricing strategy discussion — see attached amended proposal,1,0.5027
+DOC-0482,email,Rachel Bloom,2021-08-11,Re: All-hands meeting — agenda attached,0,0.1625
+DOC-0029,email,Jane Hartwell,2020-11-03,Re: Exclusive supply agreement — Clause 7 update,1,0.7246
+DOC-0465,memo,Brian Kowalski,2021-07-13,"Re: Coffee machine — broken again, sorry team",0,0.3123
+DOC-0399,memo,Neha Sharma,2023-09-05,Re: Monday team lunch — Panera or Chipotle?,0,0.2874
+DOC-0630,financial,Sandra Wu,2023-11-19,Re: Onboarding checklist — new hire starting Monday,0,0.1497
+DOC-0137,hr_document,Priya Nair,2023-10-06,Memo: Retaliatory termination policy discussion,1,0.4241
+DOC-0496,memo,Jane Hartwell,2021-01-09,Re: Office plants — anyone want to take them home for the holidays?,0,0.2438
+DOC-0007,financial,Diane Tran,2022-12-24,Memo: Retaliatory termination policy discussion,1,0.825
+DOC-0612,contract,Alistair Ford,2023-08-26,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1443
+DOC-0074,email,Brian Kowalski,2022-04-05,FWD: Discriminatory hiring policy — HR flagged for review,1,0.8483
+DOC-0199,email,Derek Okonkwo,2022-11-21,Annual performance review schedule now posted on the intranet,0,0.1084
+DOC-0200,email,Sergio Reyes,2019-11-10,Re: All-hands meeting — agenda attached,0,0.4211
+DOC-0146,email,Sandra Wu,2022-04-12,Re: Environmental compliance exemption request — urgent,1,0.8502
+DOC-0324,memo,Diane Tran,2020-12-15,Re: Team outing — kayaking vs. escape room vote,0,0.2251
+DOC-0745,memo,Alistair Ford,2022-11-07,Re: All-hands meeting — agenda attached,0,0.1508
+DOC-0133,memo,Marcus Chen,2023-08-03,Re: IP ownership dispute with former contractor Chen,1,0.6925
+DOC-0327,financial,Marcus Chen,2020-05-09,"FYI: office kitchen cleaned, please label your food",0,0.289
+DOC-0616,contract,Tom Dobbins,2019-03-06,Re: Ergonomic chair requests — facilities form attached,0,0.1362
+DOC-0702,email,Jane Hartwell,2021-07-16,Parking reminder: garage B level 2 reserved for visitors,0,0.1301
+DOC-0042,financial,Tom Dobbins,2020-08-09,Re: Destruction of records — legal hold notice to follow,1,0.7377
+DOC-0109,email,Tom Dobbins,2022-02-15,Attached: product liability study — internal use only,1,0.7992
+DOC-0533,email,Marcus Chen,2022-10-22,IT reminder: your password expires in 7 days,0,0.1278
+DOC-0057,memo,Diane Tran,2020-08-17,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.8201
+DOC-0193,email,Rachel Bloom,2019-01-18,"Free training session: Excel pivot tables, Tues 3 PM",0,0.3184
+DOC-0584,email,Alistair Ford,2021-09-22,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.3489
+DOC-0357,financial,Derek Okonkwo,2021-08-29,IT reminder: your password expires in 7 days,0,0.4155
+DOC-0602,financial,Alistair Ford,2020-12-15,IT: New printer driver installed on floor 3,0,0.3131
+DOC-0378,email,Diane Tran,2019-01-09,Re: Dress code reminder for client visit Thursday,0,0.3369
+DOC-0025,financial,Rachel Bloom,2019-11-21,Confidential: internal audit report Q2 — do not forward,1,0.5897
+DOC-0558,memo,Neha Sharma,2020-07-20,"Re: Coffee machine — broken again, sorry team",0,0.2713
+DOC-0481,email,Rachel Bloom,2023-10-20,Reminder: submit your timesheet before noon Friday,0,0.1527
+DOC-0452,meeting_notes,Rachel Bloom,2022-12-21,IT reminder: your password expires in 7 days,0,0.0762
+DOC-0333,contract,Yuki Tanaka,2020-06-15,Re: All-hands meeting — agenda attached,0,0.0692
+DOC-0731,email,Rachel Bloom,2022-08-01,Re: Conference room booking — Friday afternoon taken,0,0.1787
+DOC-0111,memo,Neha Sharma,2022-03-29,Re: Environmental compliance exemption request — urgent,1,0.721
+DOC-0083,financial,Craig Morrow,2020-05-04,Re: Destruction of records — legal hold notice to follow,1,0.7842
+DOC-0052,email,Brian Kowalski,2019-09-20,Action required: antitrust compliance review of market share data,1,0.8015
+DOC-0421,contract,Derek Okonkwo,2022-12-16,Re: Office plants — anyone want to take them home for the holidays?,0,0.1527
+DOC-0603,meeting_notes,Priya Nair,2019-07-28,"FYI: office kitchen cleaned, please label your food",0,0.1632
+DOC-0523,email,Rachel Bloom,2020-01-07,Re: Onboarding checklist — new hire starting Monday,0,0.2214
+DOC-0598,contract,Brian Kowalski,2020-12-06,Congratulations to the sales team on Q3 results!,0,0.072
+DOC-0627,financial,Sandra Wu,2022-04-27,Reminder: submit your timesheet before noon Friday,0,0.1018
+DOC-0391,contract,Priya Nair,2020-03-13,Re: All-hands meeting — agenda attached,0,0.3511
+DOC-0140,email,Sandra Wu,2023-05-12,Re: Executive compensation revision — approval pending,1,0.7871
+DOC-0668,hr_document,Brian Kowalski,2023-09-22,Re: Holiday party planning — venue suggestions welcome,0,0.3283
+DOC-0437,email,Derek Okonkwo,2020-03-22,Please welcome David Kim to the Boston office!,0,0.4894
+DOC-0019,financial,Craig Morrow,2019-08-04,Memo: Retaliatory termination policy discussion,1,0.7354
+DOC-0632,financial,Sergio Reyes,2020-03-07,Congratulations to the sales team on Q3 results!,0,0.3022
+DOC-0141,memo,Alistair Ford,2021-04-09,Re: Executive compensation revision — approval pending,1,0.8908
+DOC-0347,meeting_notes,Lisa Fernandez,2021-07-02,IT: New printer driver installed on floor 3,0,0.1551
+DOC-0508,financial,Priya Nair,2022-03-03,Re: Onboarding checklist — new hire starting Monday,0,0.2616
+DOC-0084,email,Lisa Fernandez,2023-02-11,PRIVILEGED: Attorney-client communication re: pending litigation,1,0.8376
+DOC-0062,memo,Tom Dobbins,2019-05-04,Attached: board minutes approving the acquisition of Vantage LLC,1,0.9747
+DOC-0622,memo,Sergio Reyes,2023-11-16,Parking reminder: garage B level 2 reserved for visitors,0,0.3237
+DOC-0446,contract,Marcus Chen,2020-11-06,Re: Conference room booking — Friday afternoon taken,0,0.1028
+DOC-0030,contract,Diane Tran,2022-05-11,Re: Unauthorized data access — IT security incident report,1,0.8395
+DOC-0532,contract,Priya Nair,2023-09-04,Birthday card for Susan in accounting — please sign by Friday,0,0.0536
+DOC-0232,email,Diane Tran,2023-04-20,Parking reminder: garage B level 2 reserved for visitors,0,0.4263
+DOC-0351,contract,Marcus Chen,2023-04-25,"FYI: office kitchen cleaned, please label your food",0,0.13
+DOC-0293,meeting_notes,Derek Okonkwo,2023-10-12,Re: All-hands meeting — agenda attached,0,0.3114
+DOC-0732,email,Marcus Chen,2019-04-21,IT security tip: do not click suspicious links,0,0.343
+DOC-0183,memo,Jane Hartwell,2019-10-24,FYI: Vending machine refilled with healthier options,0,0.2512
+DOC-0570,memo,Lisa Fernandez,2022-07-15,Re: All-hands meeting — agenda attached,0,0.0818
+DOC-0265,meeting_notes,Yuki Tanaka,2019-07-08,Re: Office plants — anyone want to take them home for the holidays?,0,0.0846
+DOC-0749,financial,Priya Nair,2021-03-04,Quarterly newsletter from HR — summer edition,0,0.3796
+DOC-0224,hr_document,Alistair Ford,2020-01-13,Reminder: submit your timesheet before noon Friday,0,0.0952
+DOC-0383,financial,Priya Nair,2023-07-26,Re: Update on office expansion to floor 6,0,0.2099
+DOC-0408,financial,Priya Nair,2020-05-08,Re: Team outing — kayaking vs. escape room vote,0,0.6095
+DOC-0236,financial,Neha Sharma,2020-10-20,Re: Dress code reminder for client visit Thursday,0,0.1371
+DOC-0457,hr_document,Craig Morrow,2022-07-12,FYI: Vending machine refilled with healthier options,0,0.0914
+DOC-0210,memo,Tom Dobbins,2019-04-19,Re: All-hands meeting — agenda attached,0,0.2387
+DOC-0389,email,Jane Hartwell,2019-10-03,Please welcome David Kim to the Boston office!,0,0.1367
+DOC-0430,financial,Sergio Reyes,2020-11-14,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.1642
+DOC-0177,email,Priya Nair,2019-10-15,IT: New printer driver installed on floor 3,0,0.3878
+DOC-0688,hr_document,Tom Dobbins,2022-08-10,Re: Update on office expansion to floor 6,0,0.1588
+DOC-0315,email,Diane Tran,2021-03-13,FYI: building fire drill Wednesday at 10 AM,0,0.1172
+DOC-0276,email,Marcus Chen,2020-08-14,Quarterly newsletter from HR — summer edition,0,0.4378
+DOC-0549,financial,Neha Sharma,2022-07-15,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.1354
+DOC-0361,meeting_notes,Neha Sharma,2023-11-07,Annual performance review schedule now posted on the intranet,0,0.135
+DOC-0138,memo,Rachel Bloom,2023-11-16,Re: Executive compensation revision — approval pending,1,0.8743
+DOC-0608,email,Priya Nair,2022-11-24,"Free training session: Excel pivot tables, Tues 3 PM",0,0.0705
+DOC-0703,email,Jane Hartwell,2023-09-06,Re: All-hands meeting — agenda attached,0,0.1502
+DOC-0665,email,Sergio Reyes,2021-01-13,Re: Office plants — anyone want to take them home for the holidays?,0,0.0311
+DOC-0164,email,Yuki Tanaka,2022-01-02,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.2481
+DOC-0339,email,Tom Dobbins,2023-11-06,IT security tip: do not click suspicious links,0,0.0613
+DOC-0660,email,Derek Okonkwo,2020-09-26,Annual benefits enrollment closes November 15,0,0.1403
+DOC-0075,email,Priya Nair,2022-09-24,Memo: Retaliatory termination policy discussion,1,0.8282
+DOC-0332,email,Sergio Reyes,2021-04-22,IT security tip: do not click suspicious links,0,0.3321
+DOC-0587,email,Alistair Ford,2023-10-28,Re: Ergonomic chair requests — facilities form attached,0,0.4403
+DOC-0245,contract,Tom Dobbins,2021-02-03,Re: Conference room booking — Friday afternoon taken,0,0.1212
+DOC-0328,memo,Sergio Reyes,2021-04-03,Parking reminder: garage B level 2 reserved for visitors,0,0.3462
+DOC-0352,email,Tom Dobbins,2020-01-27,Re: Update on office expansion to floor 6,0,0.2371
+DOC-0483,memo,Jane Hartwell,2023-08-27,Reminder: submit your timesheet before noon Friday,0,0.4039
+DOC-0105,financial,Marcus Chen,2020-07-18,Executive briefing: regulatory inquiry response strategy,1,0.7994
+DOC-0115,email,Jane Hartwell,2022-10-18,Re: Whistleblower complaint — HR investigation findings,1,0.9288
+DOC-0675,memo,Tom Dobbins,2021-02-11,Re: Team outing — kayaking vs. escape room vote,0,0.2542
+DOC-0295,financial,Craig Morrow,2023-01-09,Re: Holiday party planning — venue suggestions welcome,0,0.1079
+DOC-0590,email,Jane Hartwell,2023-11-09,Quarterly newsletter from HR — summer edition,0,0.0153
+DOC-0093,email,Derek Okonkwo,2021-09-22,Executive briefing: regulatory inquiry response strategy,1,0.6425
+DOC-0090,memo,Jane Hartwell,2019-06-19,Re: Executive compensation revision — approval pending,1,0.8082
+DOC-0592,email,Sandra Wu,2022-07-10,Please welcome David Kim to the Boston office!,0,0.1644
+DOC-0449,email,Jane Hartwell,2019-08-23,IT: New printer driver installed on floor 3,0,0.3261
+DOC-0696,memo,Brian Kowalski,2019-07-15,Re: Team outing — kayaking vs. escape room vote,0,0.0819
+DOC-0426,financial,Marcus Chen,2021-12-20,Annual performance review schedule now posted on the intranet,0,0.2642
+DOC-0431,meeting_notes,Marcus Chen,2019-08-03,Re: All-hands meeting — agenda attached,0,0.4667
+DOC-0012,meeting_notes,Tom Dobbins,2023-12-29,Attached: pricing analysis showing competitor rate suppression,1,0.5552
+DOC-0044,email,Yuki Tanaka,2022-09-28,Attached: pricing analysis showing competitor rate suppression,1,0.8138
+DOC-0043,contract,Marcus Chen,2020-03-05,Attached: board minutes approving the acquisition of Vantage LLC,1,0.7965
+DOC-0168,financial,Alistair Ford,2020-04-19,Please welcome David Kim to the Boston office!,0,0.4183
+DOC-0658,email,Rachel Bloom,2023-09-28,Quarterly newsletter from HR — summer edition,0,0.1678
+DOC-0576,memo,Lisa Fernandez,2023-03-17,"Free training session: Excel pivot tables, Tues 3 PM",0,0.0199
+DOC-0589,email,Sandra Wu,2020-01-29,Re: Team outing — kayaking vs. escape room vote,0,0.0472
+DOC-0179,meeting_notes,Diane Tran,2022-10-09,Parking reminder: garage B level 2 reserved for visitors,0,0.4322
+DOC-0479,contract,Jane Hartwell,2021-11-26,FYI: building fire drill Wednesday at 10 AM,0,0.3843
+DOC-0579,meeting_notes,Tom Dobbins,2022-02-17,Re: Company picnic photos — link to shared album,0,0.3731
+DOC-0178,hr_document,Lisa Fernandez,2020-12-04,Please welcome David Kim to the Boston office!,0,0.4583
+DOC-0517,email,Lisa Fernandez,2020-11-05,Re: Holiday party planning — venue suggestions welcome,0,0.6999
+DOC-0524,contract,Yuki Tanaka,2022-07-12,Re: Holiday party planning — venue suggestions welcome,0,0.4695
+DOC-0258,email,Rachel Bloom,2022-02-04,Re: Holiday party planning — venue suggestions welcome,0,0.3878
+DOC-0312,email,Rachel Bloom,2020-10-16,FYI: building fire drill Wednesday at 10 AM,0,0.4273
+DOC-0412,contract,Diane Tran,2022-11-15,Annual performance review schedule now posted on the intranet,0,0.2878
+DOC-0016,email,Diane Tran,2019-06-23,FWD: Rig bidding coordination — Thursday call confirmed,1,0.9351
+DOC-0450,contract,Sandra Wu,2019-08-05,Annual benefits enrollment closes November 15,0,0.5725
+DOC-0257,financial,Derek Okonkwo,2021-04-19,Re: Holiday party planning — venue suggestions welcome,0,0.751
+DOC-0534,contract,Alistair Ford,2023-03-09,Annual performance review schedule now posted on the intranet,0,0.3035
+DOC-0341,email,Lisa Fernandez,2019-05-09,Congratulations to the sales team on Q3 results!,0,0.2958
+DOC-0292,email,Diane Tran,2023-11-07,Re: Ergonomic chair requests — facilities form attached,0,0.0722
+DOC-0418,financial,Craig Morrow,2023-10-28,Re: Company picnic photos — link to shared album,0,0.262
+DOC-0364,email,Derek Okonkwo,2021-12-26,Re: Onboarding checklist — new hire starting Monday,0,0.2244
+DOC-0297,hr_document,Sergio Reyes,2022-12-21,Parking reminder: garage B level 2 reserved for visitors,0,0.3588
+DOC-0400,email,Derek Okonkwo,2020-08-26,Re: Conference room booking — Friday afternoon taken,0,0.1605
+DOC-0010,memo,Alistair Ford,2023-12-16,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.8079
+DOC-0250,email,Alistair Ford,2023-08-24,Reminder: expense reports due by end of month,0,0.1972
+DOC-0023,hr_document,Priya Nair,2020-06-25,Confidential: internal audit report Q2 — do not forward,1,0.8892
+DOC-0222,memo,Neha Sharma,2019-06-30,Re: All-hands meeting — agenda attached,0,0.2834
+DOC-0620,email,Alistair Ford,2020-01-11,Birthday card for Susan in accounting — please sign by Friday,0,0.1482
+DOC-0644,email,Rachel Bloom,2023-07-24,Annual benefits enrollment closes November 15,0,0.1379
+DOC-0735,email,Yuki Tanaka,2022-08-06,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.0588
+DOC-0538,email,Jane Hartwell,2019-04-20,Re: Fantasy football league — week 8 results,0,0.2336
+DOC-0628,email,Rachel Bloom,2023-09-05,Re: All-hands meeting — agenda attached,0,0.1947
+DOC-0204,email,Priya Nair,2021-05-07,"FYI: office kitchen cleaned, please label your food",0,0.0534
+DOC-0471,email,Brian Kowalski,2022-02-17,Parking reminder: garage B level 2 reserved for visitors,0,0.252
+DOC-0094,email,Jane Hartwell,2022-09-08,PRIVILEGED: Attorney-client communication re: pending litigation,1,0.6627
+DOC-0434,financial,Sergio Reyes,2023-01-20,"Re: Coffee machine — broken again, sorry team",0,0.2817
+DOC-0368,contract,Neha Sharma,2019-04-06,Please welcome David Kim to the Boston office!,0,0.3705
+DOC-0444,email,Jane Hartwell,2021-02-14,Parking reminder: garage B level 2 reserved for visitors,0,0.1878
+DOC-0285,memo,Alistair Ford,2023-01-02,FYI: building fire drill Wednesday at 10 AM,0,0.1632
+DOC-0185,financial,Derek Okonkwo,2021-04-02,IT: New printer driver installed on floor 3,0,0.3759
+DOC-0607,meeting_notes,Neha Sharma,2021-11-02,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.0856
+DOC-0530,email,Derek Okonkwo,2019-03-24,Re: Fantasy football league — week 8 results,0,0.3218
+DOC-0154,memo,Yuki Tanaka,2021-10-02,Reminder: submit your timesheet before noon Friday,0,0.1244
+DOC-0076,email,Sandra Wu,2023-02-11,Re: IP ownership dispute with former contractor Chen,1,0.664
+DOC-0396,memo,Brian Kowalski,2019-01-10,Reminder: submit your timesheet before noon Friday,0,0.2328
+DOC-0278,memo,Priya Nair,2023-09-28,Re: All-hands meeting — agenda attached,0,0.3244
+DOC-0069,email,Diane Tran,2023-04-02,Re: Project Merlin — revised valuation memo attached,1,0.9208
+DOC-0690,memo,Yuki Tanaka,2019-11-05,Re: Holiday party planning — venue suggestions welcome,0,0.4774
+DOC-0189,contract,Sergio Reyes,2023-03-21,IT reminder: your password expires in 7 days,0,0.4551
+DOC-0272,email,Derek Okonkwo,2019-03-22,FYI: building fire drill Wednesday at 10 AM,0,0.1067
+DOC-0237,memo,Craig Morrow,2020-03-21,"Re: Coffee machine — broken again, sorry team",0,0.3696
+DOC-0089,email,Brian Kowalski,2019-03-21,Re: Exclusive supply agreement — Clause 7 update,1,0.9175
+DOC-0637,contract,Yuki Tanaka,2023-08-30,Congratulations to the sales team on Q3 results!,0,0.3374
+DOC-0118,contract,Craig Morrow,2019-11-18,Attached: non-disclosure agreement breach — legal action considered,1,0.6557
+DOC-0126,memo,Sergio Reyes,2023-12-13,Re: Unauthorized data access — IT security incident report,1,0.4098
+DOC-0617,contract,Sergio Reyes,2020-07-29,IT reminder: your password expires in 7 days,0,0.2374
+DOC-0290,email,Neha Sharma,2021-06-19,Re: Holiday party planning — venue suggestions welcome,0,0.0611
+DOC-0239,email,Jane Hartwell,2021-08-16,Re: Company picnic photos — link to shared album,0,0.2528
+DOC-0001,financial,Craig Morrow,2021-07-13,FWD: Discriminatory hiring policy — HR flagged for review,1,0.9271
+DOC-0742,email,Rachel Bloom,2022-03-10,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.3902
+DOC-0335,email,Lisa Fernandez,2020-10-01,Birthday card for Susan in accounting — please sign by Friday,0,0.2235
+DOC-0655,meeting_notes,Alistair Ford,2022-04-04,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1785
+DOC-0743,meeting_notes,Lisa Fernandez,2019-12-19,Re: Update on office expansion to floor 6,0,0.2856
+DOC-0279,meeting_notes,Sandra Wu,2019-06-07,Annual performance review schedule now posted on the intranet,0,0.3946
+DOC-0586,contract,Rachel Bloom,2021-09-18,Parking reminder: garage B level 2 reserved for visitors,0,0.314
+DOC-0117,financial,Neha Sharma,2020-09-07,Re: Financial restatement — accounting irregularities identified,1,0.7465
+DOC-0229,contract,Lisa Fernandez,2019-05-22,FYI: Vending machine refilled with healthier options,0,0.169
+DOC-0588,email,Rachel Bloom,2023-06-29,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1485
+DOC-0381,memo,Derek Okonkwo,2023-09-04,Re: Onboarding checklist — new hire starting Monday,0,0.1075
+DOC-0275,contract,Neha Sharma,2019-04-24,Re: All-hands meeting — agenda attached,0,0.5119
+DOC-0319,email,Priya Nair,2020-11-22,Re: All-hands meeting — agenda attached,0,0.2743
+DOC-0515,email,Rachel Bloom,2020-01-09,Re: All-hands meeting — agenda attached,0,0.0918
+DOC-0145,memo,Marcus Chen,2021-05-13,Re: IP ownership dispute with former contractor Chen,1,0.9688
+DOC-0451,email,Diane Tran,2023-05-28,Annual benefits enrollment closes November 15,0,0.5335
+DOC-0714,meeting_notes,Marcus Chen,2019-05-02,Parking reminder: garage B level 2 reserved for visitors,0,0.2351
+DOC-0679,email,Rachel Bloom,2019-12-05,Congratulations to the sales team on Q3 results!,0,0.4418
+DOC-0548,email,Craig Morrow,2021-11-01,Re: Company picnic photos — link to shared album,0,0.066
+DOC-0269,email,Marcus Chen,2019-09-19,"FYI: office kitchen cleaned, please label your food",0,0.7491
+DOC-0531,contract,Yuki Tanaka,2020-07-21,Reminder: expense reports due by end of month,0,0.1367
+DOC-0308,contract,Craig Morrow,2023-04-30,"FYI: office kitchen cleaned, please label your food",0,0.1142
+DOC-0311,memo,Tom Dobbins,2021-11-19,Re: Office plants — anyone want to take them home for the holidays?,0,0.1184
+DOC-0047,email,Alistair Ford,2019-11-02,Executive briefing: regulatory inquiry response strategy,1,0.6421
+DOC-0350,email,Priya Nair,2020-12-11,Reminder: submit your timesheet before noon Friday,0,0.2452
+DOC-0262,financial,Lisa Fernandez,2023-04-05,Annual benefits enrollment closes November 15,0,0.3603
+DOC-0196,email,Alistair Ford,2023-06-21,Re: Holiday party planning — venue suggestions welcome,0,0.5366
+DOC-0750,financial,Lisa Fernandez,2022-04-24,Quarterly newsletter from HR — summer edition,0,0.5612
+DOC-0629,memo,Jane Hartwell,2023-05-09,IT security tip: do not click suspicious links,0,0.077
+DOC-0108,email,Yuki Tanaka,2020-02-05,Confidential: internal audit report Q2 — do not forward,1,0.7618
+DOC-0060,email,Brian Kowalski,2021-09-01,Re: Destruction of records — legal hold notice to follow,1,0.8477
+DOC-0684,memo,Rachel Bloom,2021-03-04,Re: Dress code reminder for client visit Thursday,0,0.1222
+DOC-0694,email,Tom Dobbins,2019-12-09,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.1706
+DOC-0101,meeting_notes,Sandra Wu,2021-09-10,Re: Whistleblower complaint — HR investigation findings,1,0.4979
+DOC-0417,email,Sandra Wu,2020-03-15,IT: New printer driver installed on floor 3,0,0.2642
+DOC-0672,memo,Neha Sharma,2022-11-07,Birthday card for Susan in accounting — please sign by Friday,0,0.3496
+DOC-0546,email,Sergio Reyes,2023-07-30,IT: New printer driver installed on floor 3,0,0.1548
+DOC-0397,financial,Yuki Tanaka,2021-11-02,Re: Ergonomic chair requests — facilities form attached,0,0.1632
+DOC-0180,contract,Craig Morrow,2020-05-09,Re: Holiday party planning — venue suggestions welcome,0,0.1339
+DOC-0305,meeting_notes,Marcus Chen,2023-11-27,Re: Fantasy football league — week 8 results,0,0.1854
+DOC-0376,email,Marcus Chen,2021-11-22,Re: Office plants — anyone want to take them home for the holidays?,0,0.0405
+DOC-0425,contract,Derek Okonkwo,2023-08-27,IT: New printer driver installed on floor 3,0,0.2858
+DOC-0722,email,Priya Nair,2019-04-03,Re: Dress code reminder for client visit Thursday,0,0.3241
+DOC-0150,email,Brian Kowalski,2022-09-02,FWD: Confidential settlement terms — do not distribute,1,0.8266
+DOC-0125,email,Yuki Tanaka,2022-06-29,FWD: Rig bidding coordination — Thursday call confirmed,1,0.6603
+DOC-0595,email,Priya Nair,2021-04-13,Re: All-hands meeting — agenda attached,0,0.2133
+DOC-0652,meeting_notes,Sandra Wu,2023-01-01,Birthday card for Susan in accounting — please sign by Friday,0,0.0988
+DOC-0186,contract,Craig Morrow,2021-10-26,Re: Update on office expansion to floor 6,0,0.3329
+DOC-0707,financial,Priya Nair,2019-06-30,"FYI: office kitchen cleaned, please label your food",0,0.3222
+DOC-0466,contract,Neha Sharma,2021-04-26,FYI: Vending machine refilled with healthier options,0,0.1596
+DOC-0409,email,Jane Hartwell,2022-05-11,Re: Team outing — kayaking vs. escape room vote,0,0.5327
+DOC-0740,email,Diane Tran,2021-02-20,Re: Onboarding checklist — new hire starting Monday,0,0.1902
+DOC-0410,hr_document,Sergio Reyes,2019-10-21,Annual benefits enrollment closes November 15,0,0.0167
+DOC-0322,memo,Neha Sharma,2023-08-30,"FYI: office kitchen cleaned, please label your food",0,0.271
+DOC-0354,memo,Priya Nair,2021-10-23,Re: Conference room booking — Friday afternoon taken,0,0.1626
+DOC-0692,meeting_notes,Lisa Fernandez,2023-09-06,IT: New printer driver installed on floor 3,0,0.1567
+DOC-0143,meeting_notes,Lisa Fernandez,2022-01-31,FWD: Rig bidding coordination — Thursday call confirmed,1,0.928
+DOC-0718,email,Sergio Reyes,2020-02-21,Re: All-hands meeting — agenda attached,0,0.5531
+DOC-0142,memo,Jane Hartwell,2019-12-17,Re: Side letter agreement with preferred customers,1,0.985
+DOC-0545,email,Sandra Wu,2019-05-07,IT reminder: your password expires in 7 days,0,0.1072
+DOC-0321,meeting_notes,Sandra Wu,2023-01-03,Birthday card for Susan in accounting — please sign by Friday,0,0.2134
+DOC-0020,contract,Lisa Fernandez,2023-11-18,Re: IP ownership dispute with former contractor Chen,1,0.8355
+DOC-0173,email,Sandra Wu,2019-07-09,FYI: building fire drill Wednesday at 10 AM,0,0.2826
+DOC-0611,memo,Sandra Wu,2019-12-20,Congratulations to the sales team on Q3 results!,0,0.3812
+DOC-0313,email,Alistair Ford,2022-05-01,Quarterly newsletter from HR — summer edition,0,0.4353
+DOC-0698,memo,Brian Kowalski,2021-06-27,FYI: building fire drill Wednesday at 10 AM,0,0.1691
+DOC-0013,contract,Neha Sharma,2019-02-27,Urgent: data retention policy change effective immediately,1,0.7782
+DOC-0306,memo,Jane Hartwell,2019-07-08,Re: All-hands meeting — agenda attached,0,0.2416
+DOC-0355,memo,Marcus Chen,2022-10-15,Annual performance review schedule now posted on the intranet,0,0.1692
+DOC-0026,email,Jane Hartwell,2021-02-14,Re: Financial restatement — accounting irregularities identified,1,0.7602
+DOC-0560,memo,Lisa Fernandez,2019-12-12,Annual benefits enrollment closes November 15,0,0.1727
+DOC-0170,hr_document,Alistair Ford,2021-02-03,IT: New printer driver installed on floor 3,0,0.1916
+DOC-0039,email,Alistair Ford,2023-09-06,Re: Destruction of records — legal hold notice to follow,1,0.8718
+DOC-0478,contract,Derek Okonkwo,2019-03-15,Re: Office plants — anyone want to take them home for the holidays?,0,0.4805
+DOC-0246,meeting_notes,Sergio Reyes,2020-01-10,Re: Onboarding checklist — new hire starting Monday,0,0.3195
+DOC-0299,financial,Craig Morrow,2021-05-08,Congratulations to the sales team on Q3 results!,0,0.2392
+DOC-0625,hr_document,Neha Sharma,2020-11-30,Re: Onboarding checklist — new hire starting Monday,0,0.4519
+DOC-0512,financial,Derek Okonkwo,2021-02-25,Re: Dress code reminder for client visit Thursday,0,0.2243
+DOC-0273,email,Derek Okonkwo,2020-01-19,Re: Team outing — kayaking vs. escape room vote,0,0.2926
+DOC-0604,contract,Marcus Chen,2019-06-13,IT: New printer driver installed on floor 3,0,0.255
+DOC-0155,email,Priya Nair,2020-12-01,Birthday card for Susan in accounting — please sign by Friday,0,0.0705
+DOC-0127,email,Yuki Tanaka,2023-04-08,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.5413
+DOC-0535,email,Sergio Reyes,2023-07-22,Birthday card for Susan in accounting — please sign by Friday,0,0.2396
+DOC-0342,hr_document,Marcus Chen,2020-11-21,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.1633
+DOC-0288,email,Marcus Chen,2021-06-29,Parking reminder: garage B level 2 reserved for visitors,0,0.3262
+DOC-0114,memo,Alistair Ford,2019-08-06,Attached: product liability study — internal use only,1,0.7113
+DOC-0435,email,Priya Nair,2021-07-11,Re: All-hands meeting — agenda attached,0,0.3868
+DOC-0174,meeting_notes,Neha Sharma,2023-02-17,"Re: Coffee machine — broken again, sorry team",0,0.2758
+DOC-0360,memo,Neha Sharma,2023-02-17,Re: Office plants — anyone want to take them home for the holidays?,0,0.2297
+DOC-0513,email,Priya Nair,2020-10-27,Re: Fantasy football league — week 8 results,0,0.1085
+DOC-0058,memo,Neha Sharma,2019-10-08,Re: Project Merlin — revised valuation memo attached,1,0.5843
+DOC-0516,email,Sandra Wu,2021-09-02,Annual performance review schedule now posted on the intranet,0,0.1878
+DOC-0223,contract,Rachel Bloom,2021-01-26,Reminder: submit your timesheet before noon Friday,0,0.3157
+DOC-0281,email,Jane Hartwell,2023-07-30,Birthday card for Susan in accounting — please sign by Friday,0,0.0731
+DOC-0018,email,Jane Hartwell,2022-08-21,Re: Exclusive supply agreement — Clause 7 update,1,0.8164
+DOC-0480,email,Neha Sharma,2021-04-22,Reminder: submit your timesheet before noon Friday,0,0.1824
+DOC-0323,email,Sandra Wu,2022-08-26,Reminder: submit your timesheet before noon Friday,0,0.3419
+DOC-0256,contract,Sandra Wu,2019-07-30,Re: Holiday party planning — venue suggestions welcome,0,0.0944
+DOC-0729,memo,Sandra Wu,2020-05-31,"Re: Coffee machine — broken again, sorry team",0,0.1579
+DOC-0719,contract,Sandra Wu,2022-08-06,"Free training session: Excel pivot tables, Tues 3 PM",0,0.293
+DOC-0720,hr_document,Priya Nair,2022-03-09,Re: All-hands meeting — agenda attached,0,0.1092
+DOC-0191,meeting_notes,Neha Sharma,2020-10-23,Re: Monday team lunch — Panera or Chipotle?,0,0.2588
+DOC-0116,meeting_notes,Priya Nair,2019-06-06,Re: Executive compensation revision — approval pending,1,0.6764
+DOC-0734,email,Priya Nair,2023-02-09,Quarterly newsletter from HR — summer edition,0,0.5091
+DOC-0559,memo,Derek Okonkwo,2022-12-15,Re: Holiday party planning — venue suggestions welcome,0,0.1214
+DOC-0095,email,Alistair Ford,2021-12-08,Attached: product liability study — internal use only,1,0.6957
+DOC-0181,meeting_notes,Sergio Reyes,2019-08-30,Parking reminder: garage B level 2 reserved for visitors,0,0.4338
+DOC-0302,email,Craig Morrow,2020-08-08,Re: All-hands meeting — agenda attached,0,0.1493
+DOC-0504,memo,Lisa Fernandez,2022-04-04,Parking reminder: garage B level 2 reserved for visitors,0,0.3481
+DOC-0553,email,Derek Okonkwo,2023-12-11,Re: Update on office expansion to floor 6,0,0.2398
+DOC-0610,email,Sandra Wu,2021-03-25,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1118
+DOC-0522,email,Rachel Bloom,2019-03-15,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.2462
+DOC-0663,email,Lisa Fernandez,2021-05-11,Annual performance review schedule now posted on the intranet,0,0.2541
+DOC-0599,hr_document,Neha Sharma,2020-05-25,Please welcome David Kim to the Boston office!,0,0.2619
+DOC-0006,hr_document,Tom Dobbins,2022-06-06,Confidential: internal audit report Q2 — do not forward,1,0.7654
+DOC-0736,contract,Neha Sharma,2022-03-28,Parking reminder: garage B level 2 reserved for visitors,0,0.4204
+DOC-0046,financial,Yuki Tanaka,2023-01-02,Re: Unauthorized data access — IT security incident report,1,0.797
+DOC-0474,email,Derek Okonkwo,2020-11-18,Re: Company picnic photos — link to shared album,0,0.2082
+DOC-0568,email,Diane Tran,2023-05-02,"FYI: office kitchen cleaned, please label your food",0,0.0858
+DOC-0172,memo,Yuki Tanaka,2022-10-15,Re: Update on office expansion to floor 6,0,0.4999
+DOC-0017,memo,Craig Morrow,2022-06-01,Attached: pricing analysis showing competitor rate suppression,1,0.9337
+DOC-0049,contract,Craig Morrow,2020-02-10,Action required: antitrust compliance review of market share data,1,0.9796
+DOC-0726,email,Rachel Bloom,2021-05-05,Annual performance review schedule now posted on the intranet,0,0.5779
+DOC-0711,hr_document,Alistair Ford,2023-08-10,"Re: Coffee machine — broken again, sorry team",0,0.2822
+DOC-0004,contract,Sandra Wu,2021-07-02,Re: Market allocation agreement with Northbridge Partners,1,0.9433
+DOC-0540,financial,Lisa Fernandez,2023-03-04,Re: Onboarding checklist — new hire starting Monday,0,0.1727
+DOC-0487,memo,Brian Kowalski,2021-11-13,"Re: Coffee machine — broken again, sorry team",0,0.1035
+DOC-0317,email,Tom Dobbins,2023-01-01,IT: New printer driver installed on floor 3,0,0.2237
+DOC-0526,email,Craig Morrow,2020-07-04,Parking reminder: garage B level 2 reserved for visitors,0,0.4188
+DOC-0448,contract,Diane Tran,2021-02-01,Congratulations to the sales team on Q3 results!,0,0.2255
+DOC-0691,email,Derek Okonkwo,2022-07-29,FYI: building fire drill Wednesday at 10 AM,0,0.2143
+DOC-0284,email,Sergio Reyes,2019-11-07,Birthday card for Susan in accounting — please sign by Friday,0,0.2146
+DOC-0097,email,Rachel Bloom,2020-08-20,Action required: antitrust compliance review of market share data,1,0.9056
+DOC-0286,email,Tom Dobbins,2023-11-22,Annual benefits enrollment closes November 15,0,0.2296
+DOC-0488,email,Tom Dobbins,2019-12-10,Re: Update on office expansion to floor 6,0,0.189
+DOC-0226,meeting_notes,Neha Sharma,2021-02-10,Reminder: submit your timesheet before noon Friday,0,0.3629
+DOC-0027,memo,Sandra Wu,2020-01-19,FWD: Confidential settlement terms — do not distribute,1,0.6505
+DOC-0591,meeting_notes,Diane Tran,2021-03-10,Re: Fantasy football league — week 8 results,0,0.1441
+DOC-0264,email,Rachel Bloom,2022-10-08,IT security tip: do not click suspicious links,0,0.3495
+DOC-0438,memo,Yuki Tanaka,2021-10-27,Re: Team outing — kayaking vs. escape room vote,0,0.0998
+DOC-0051,email,Sandra Wu,2020-05-03,Restricted: merger agreement draft v4 — not for circulation,1,0.6294
+DOC-0365,contract,Brian Kowalski,2019-07-10,"FYI: office kitchen cleaned, please label your food",0,0.3203
+DOC-0230,email,Marcus Chen,2019-09-03,IT security tip: do not click suspicious links,0,0.078
+DOC-0038,memo,Marcus Chen,2023-02-07,Re: Project Merlin — revised valuation memo attached,1,0.8445
+DOC-0158,contract,Diane Tran,2022-07-20,Annual performance review schedule now posted on the intranet,0,0.1495
+DOC-0238,financial,Marcus Chen,2019-04-11,Annual performance review schedule now posted on the intranet,0,0.2549
+DOC-0721,memo,Sergio Reyes,2022-01-20,Re: Team outing — kayaking vs. escape room vote,0,0.4471
+DOC-0375,email,Lisa Fernandez,2023-08-09,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1613
+DOC-0470,memo,Priya Nair,2019-10-26,IT security tip: do not click suspicious links,0,0.2663
+DOC-0371,financial,Jane Hartwell,2023-03-27,Annual performance review schedule now posted on the intranet,0,0.3675
+DOC-0443,contract,Diane Tran,2023-07-19,Re: Ergonomic chair requests — facilities form attached,0,0.1567
+DOC-0723,email,Jane Hartwell,2021-12-27,FYI: Vending machine refilled with healthier options,0,0.0074
+DOC-0176,email,Sergio Reyes,2021-10-21,Congratulations to the sales team on Q3 results!,0,0.2814
+DOC-0638,contract,Jane Hartwell,2019-04-26,Annual benefits enrollment closes November 15,0,0.3552
+DOC-0128,email,Yuki Tanaka,2019-09-08,Attached: product liability study — internal use only,1,0.8198
+DOC-0555,email,Alistair Ford,2019-11-11,FYI: building fire drill Wednesday at 10 AM,0,0.1356
+DOC-0195,email,Priya Nair,2021-12-27,FYI: Vending machine refilled with healthier options,0,0.1025
+DOC-0640,meeting_notes,Lisa Fernandez,2019-12-23,IT: New printer driver installed on floor 3,0,0.1077
+DOC-0654,email,Yuki Tanaka,2022-02-01,Re: Office plants — anyone want to take them home for the holidays?,0,0.14
+DOC-0502,meeting_notes,Jane Hartwell,2019-05-28,Re: Team outing — kayaking vs. escape room vote,0,0.1623
+DOC-0518,contract,Alistair Ford,2023-12-19,Quarterly newsletter from HR — summer edition,0,0.2438
+DOC-0528,hr_document,Sergio Reyes,2023-07-06,Birthday card for Susan in accounting — please sign by Friday,0,0.296
+DOC-0725,email,Lisa Fernandez,2019-02-01,Re: Monday team lunch — Panera or Chipotle?,0,0.2858
+DOC-0626,email,Tom Dobbins,2021-07-30,FYI: Vending machine refilled with healthier options,0,0.2607
+DOC-0646,meeting_notes,Lisa Fernandez,2021-09-07,Re: Office plants — anyone want to take them home for the holidays?,0,0.1051
+DOC-0068,email,Rachel Bloom,2021-03-07,Executive briefing: regulatory inquiry response strategy,1,0.7563
+DOC-0724,hr_document,Lisa Fernandez,2023-11-27,Annual performance review schedule now posted on the intranet,0,0.289
+DOC-0484,email,Neha Sharma,2020-01-27,Parking reminder: garage B level 2 reserved for visitors,0,0.2074
+DOC-0169,email,Craig Morrow,2020-06-10,Re: Onboarding checklist — new hire starting Monday,0,0.2474
+DOC-0445,email,Derek Okonkwo,2023-09-03,Quarterly newsletter from HR — summer edition,0,0.1532
+DOC-0520,financial,Lisa Fernandez,2023-10-16,Quarterly newsletter from HR — summer edition,0,0.2498
+DOC-0163,email,Priya Nair,2023-08-26,"FYI: office kitchen cleaned, please label your food",0,0.2018
+DOC-0310,email,Sergio Reyes,2021-12-11,Re: Update on office expansion to floor 6,0,0.0322
+DOC-0194,financial,Derek Okonkwo,2020-01-23,Re: Holiday party planning — venue suggestions welcome,0,0.3832
+DOC-0537,memo,Yuki Tanaka,2020-05-30,Re: Monday team lunch — Panera or Chipotle?,0,0.293
+DOC-0366,email,Lisa Fernandez,2022-05-05,FYI: Vending machine refilled with healthier options,0,0.1336
+DOC-0384,memo,Brian Kowalski,2021-10-23,Quarterly newsletter from HR — summer edition,0,0.3245
+DOC-0677,meeting_notes,Marcus Chen,2022-01-30,"Re: Coffee machine — broken again, sorry team",0,0.1097
+DOC-0544,hr_document,Neha Sharma,2021-09-03,Reminder: submit your timesheet before noon Friday,0,0.173
+DOC-0153,email,Jane Hartwell,2022-09-23,Re: Holiday party planning — venue suggestions welcome,0,0.1314
+DOC-0657,meeting_notes,Lisa Fernandez,2022-02-14,Re: Office plants — anyone want to take them home for the holidays?,0,0.3323
+DOC-0536,email,Brian Kowalski,2019-08-03,Birthday card for Susan in accounting — please sign by Friday,0,0.062
+DOC-0112,email,Priya Nair,2022-10-03,Re: IP ownership dispute with former contractor Chen,1,0.7138
+DOC-0227,email,Sergio Reyes,2021-08-09,Re: Dress code reminder for client visit Thursday,0,0.0288
+DOC-0527,hr_document,Rachel Bloom,2021-08-10,Re: Fantasy football league — week 8 results,0,0.1395
+DOC-0699,contract,Yuki Tanaka,2021-08-27,Please welcome David Kim to the Boston office!,0,0.2226
+DOC-0104,hr_document,Sandra Wu,2021-04-28,FWD: Rig bidding coordination — Thursday call confirmed,1,0.5674
+DOC-0422,email,Yuki Tanaka,2023-04-11,Reminder: submit your timesheet before noon Friday,0,0.1002
+DOC-0420,meeting_notes,Craig Morrow,2023-10-25,Please welcome David Kim to the Boston office!,0,0.2887
+DOC-0120,contract,Sergio Reyes,2019-11-17,Re: Unauthorized data access — IT security incident report,1,0.8497
+DOC-0054,contract,Rachel Bloom,2023-05-24,Re: Whistleblower complaint — HR investigation findings,1,0.6014
+DOC-0152,meeting_notes,Jane Hartwell,2021-10-30,Parking reminder: garage B level 2 reserved for visitors,0,0.1374
+DOC-0404,email,Tom Dobbins,2020-11-11,Annual performance review schedule now posted on the intranet,0,0.3627
+DOC-0706,memo,Neha Sharma,2023-12-21,Re: Office plants — anyone want to take them home for the holidays?,0,0.174
+DOC-0208,contract,Diane Tran,2023-09-04,Re: Onboarding checklist — new hire starting Monday,0,0.24
+DOC-0633,email,Craig Morrow,2021-10-24,IT reminder: your password expires in 7 days,0,0.0959
+DOC-0581,memo,Brian Kowalski,2023-08-12,Re: Company picnic photos — link to shared album,0,0.3699
+DOC-0009,email,Brian Kowalski,2019-01-03,Re: Financial restatement — accounting irregularities identified,1,0.8247
+DOC-0609,contract,Sandra Wu,2022-08-15,IT: New printer driver installed on floor 3,0,0.2246
+DOC-0037,email,Priya Nair,2023-07-12,Re: Vendor kickback arrangement — invoice discrepancy noted,1,0.9317
+DOC-0453,contract,Marcus Chen,2020-02-08,Re: Ergonomic chair requests — facilities form attached,0,0.2159
+DOC-0254,email,Derek Okonkwo,2019-07-16,Reminder: expense reports due by end of month,0,0.4059
+DOC-0304,memo,Tom Dobbins,2019-12-19,Please welcome David Kim to the Boston office!,0,0.3182
+DOC-0569,email,Sandra Wu,2019-08-21,FYI: Vending machine refilled with healthier options,0,0.176
+DOC-0542,memo,Diane Tran,2019-10-12,Re: Dress code reminder for client visit Thursday,0,0.2259
+DOC-0550,email,Rachel Bloom,2020-12-25,Re: Team outing — kayaking vs. escape room vote,0,0.3071
+DOC-0263,email,Jane Hartwell,2023-10-23,FYI: Vending machine refilled with healthier options,0,0.2743
+DOC-0298,financial,Priya Nair,2021-12-03,Quarterly newsletter from HR — summer edition,0,0.2226
+DOC-0415,email,Sandra Wu,2020-01-28,Re: Dress code reminder for client visit Thursday,0,0.3932
+DOC-0151,financial,Priya Nair,2019-01-12,Re: Conference room booking — Friday afternoon taken,0,0.0819
+DOC-0597,contract,Sergio Reyes,2023-04-24,"Re: Coffee machine — broken again, sorry team",0,0.0958
+DOC-0667,financial,Sandra Wu,2022-02-07,Re: Dress code reminder for client visit Thursday,0,0.5673
+DOC-0489,memo,Tom Dobbins,2021-06-17,Re: Ergonomic chair requests — facilities form attached,0,0.4259
+DOC-0148,memo,Rachel Bloom,2020-06-11,Restricted: merger agreement draft v4 — not for circulation,1,0.8053
+DOC-0147,email,Derek Okonkwo,2023-09-24,Attached: non-disclosure agreement breach — legal action considered,1,0.8821
+DOC-0551,memo,Priya Nair,2022-12-17,Re: Ergonomic chair requests — facilities form attached,0,0.2177
+DOC-0695,meeting_notes,Rachel Bloom,2023-02-09,Reminder: expense reports due by end of month,0,0.0898
+DOC-0577,meeting_notes,Lisa Fernandez,2020-10-22,Re: Team outing — kayaking vs. escape room vote,0,0.0277
+DOC-0349,memo,Craig Morrow,2023-11-03,Re: Fantasy football league — week 8 results,0,0.3587
+DOC-0464,email,Brian Kowalski,2021-08-07,IT reminder: your password expires in 7 days,0,0.1067
+DOC-0326,contract,Diane Tran,2020-08-23,Reminder: submit your timesheet before noon Friday,0,0.6
+DOC-0187,email,Lisa Fernandez,2022-03-12,FYI: Vending machine refilled with healthier options,0,0.2038
+DOC-0124,email,Jane Hartwell,2020-12-28,Re: Financial restatement — accounting irregularities identified,1,0.3526
+DOC-0639,financial,Yuki Tanaka,2019-09-28,Birthday card for Susan in accounting — please sign by Friday,0,0.0894
+DOC-0144,memo,Yuki Tanaka,2020-02-07,Memo: Retaliatory termination policy discussion,1,0.9087
+DOC-0716,email,Derek Okonkwo,2021-12-18,Please welcome David Kim to the Boston office!,0,0.2741
+DOC-0198,meeting_notes,Priya Nair,2022-03-25,Re: Onboarding checklist — new hire starting Monday,0,0.4396
+DOC-0280,meeting_notes,Alistair Ford,2021-11-18,Re: Conference room booking — Friday afternoon taken,0,0.2861
+DOC-0294,email,Sandra Wu,2020-11-25,Please welcome David Kim to the Boston office!,0,0.1736
+DOC-0401,email,Yuki Tanaka,2023-05-27,Re: Onboarding checklist — new hire starting Monday,0,0.4974
+DOC-0123,email,Diane Tran,2019-04-22,Re: Executive compensation revision — approval pending,1,0.6509
+DOC-0184,email,Neha Sharma,2020-07-28,IT reminder: your password expires in 7 days,0,0.3013
+DOC-0203,memo,Alistair Ford,2019-06-23,Reminder: submit your timesheet before noon Friday,0,0.0746
+DOC-0439,contract,Sergio Reyes,2022-03-10,Re: Update on office expansion to floor 6,0,0.1426
+DOC-0247,contract,Sergio Reyes,2023-01-02,Reminder: submit your timesheet before noon Friday,0,0.1088
+DOC-0416,email,Craig Morrow,2021-09-06,FYI: building fire drill Wednesday at 10 AM,0,0.1578
+DOC-0666,contract,Diane Tran,2021-03-10,Re: Ergonomic chair requests — facilities form attached,0,0.3101
+DOC-0130,memo,Marcus Chen,2022-04-07,FWD: Discriminatory hiring policy — HR flagged for review,1,0.662
+DOC-0403,financial,Alistair Ford,2023-12-09,"FYI: office kitchen cleaned, please label your food",0,0.2846
+DOC-0649,contract,Brian Kowalski,2022-12-24,Annual performance review schedule now posted on the intranet,0,0.1941
+DOC-0585,meeting_notes,Marcus Chen,2020-12-09,FYI: Vending machine refilled with healthier options,0,0.1173
+DOC-0680,email,Lisa Fernandez,2022-04-07,FYI: Vending machine refilled with healthier options,0,0.4412
+DOC-0220,email,Craig Morrow,2020-01-26,FYI: building fire drill Wednesday at 10 AM,0,0.2246
+DOC-0715,financial,Marcus Chen,2022-09-01,Re: Conference room booking — Friday afternoon taken,0,0.1405
+DOC-0572,financial,Rachel Bloom,2023-02-23,IT security tip: do not click suspicious links,0,0.339
+DOC-0685,contract,Rachel Bloom,2023-01-14,Annual performance review schedule now posted on the intranet,0,0.1976
+DOC-0580,email,Marcus Chen,2019-08-20,Birthday card for Susan in accounting — please sign by Friday,0,0.135
+DOC-0387,contract,Rachel Bloom,2020-09-04,Reminder: submit your timesheet before noon Friday,0,0.4984
+DOC-0727,email,Diane Tran,2021-06-21,Re: Fantasy football league — week 8 results,0,0.0977
+DOC-0510,email,Rachel Bloom,2021-02-21,"Re: Coffee machine — broken again, sorry team",0,0.1763
+DOC-0268,email,Craig Morrow,2021-08-18,"Free training session: Excel pivot tables, Tues 3 PM",0,0.1933
+DOC-0618,email,Yuki Tanaka,2019-10-15,FYI: building fire drill Wednesday at 10 AM,0,0.2691
+DOC-0442,email,Tom Dobbins,2022-01-13,Re: Monday team lunch — Panera or Chipotle?,0,0.4395
+DOC-0497,email,Yuki Tanaka,2020-02-14,Re: Fantasy football league — week 8 results,0,0.3267
+DOC-0113,email,Alistair Ford,2023-10-22,Urgent: data retention policy change effective immediately,1,0.7822
+DOC-0233,hr_document,Alistair Ford,2019-11-26,"Free training session: Excel pivot tables, Tues 3 PM",0,0.3987
+DOC-0653,contract,Brian Kowalski,2023-04-25,FYI: building fire drill Wednesday at 10 AM,0,0.2473
+DOC-0374,email,Sergio Reyes,2023-08-14,Re: Office plants — anyone want to take them home for the holidays?,0,0.2537
+DOC-0234,memo,Brian Kowalski,2020-08-07,Re: Monday team lunch — Panera or Chipotle?,0,0.3235
+DOC-0594,memo,Priya Nair,2021-05-31,Re: Dress code reminder for client visit Thursday,0,0.2582
+DOC-0318,contract,Tom Dobbins,2022-03-01,Reminder: expense reports due by end of month,0,0.083
+DOC-0411,contract,Marcus Chen,2021-03-04,Birthday card for Susan in accounting — please sign by Friday,0,0.117
+DOC-0671,email,Jane Hartwell,2020-08-17,"FYI: office kitchen cleaned, please label your food",0,0.3099
+DOC-0359,memo,Craig Morrow,2021-08-18,Re: Holiday party planning — venue suggestions welcome,0,0.21
+DOC-0259,email,Yuki Tanaka,2021-01-13,Congratulations to the sales team on Q3 results!,0,0.2941
+DOC-0283,email,Jane Hartwell,2023-08-16,Annual performance review schedule now posted on the intranet,0,0.4104
+DOC-0377,meeting_notes,Tom Dobbins,2023-11-22,Re: Office plants — anyone want to take them home for the holidays?,0,0.3606
+DOC-0385,email,Rachel Bloom,2019-06-01,Reminder: submit your timesheet before noon Friday,0,0.1851
+DOC-0225,email,Yuki Tanaka,2019-07-10,IT: New printer driver installed on floor 3,0,0.1896
+DOC-0712,contract,Neha Sharma,2021-02-08,Annual performance review schedule now posted on the intranet,0,0.3732
+DOC-0614,hr_document,Diane Tran,2022-01-22,Birthday card for Susan in accounting — please sign by Friday,0,0.2584
+DOC-0473,email,Alistair Ford,2019-07-27,FYI: Vending machine refilled with healthier options,0,0.2109
+DOC-0348,email,Yuki Tanaka,2022-08-12,Re: Fantasy football league — week 8 results,0,0.146
+DOC-0506,financial,Marcus Chen,2023-05-10,Re: Company picnic photos — link to shared album,0,0.0767
+DOC-0739,email,Craig Morrow,2023-07-07,"Free training session: Excel pivot tables, Tues 3 PM",0,0.4371
+DOC-0693,email,Sandra Wu,2022-10-24,Re: Holiday party planning — venue suggestions welcome,0,0.1954
+DOC-0676,email,Neha Sharma,2019-11-30,FYI: building fire drill Wednesday at 10 AM,0,0.3007
+DOC-0641,contract,Alistair Ford,2019-09-29,Re: Conference room booking — Friday afternoon taken,0,0.1451
+DOC-0634,email,Derek Okonkwo,2019-03-31,FYI: Vending machine refilled with healthier options,0,0.5256
+DOC-0557,email,Neha Sharma,2020-06-11,Re: Conference room booking — Friday afternoon taken,0,0.209
+DOC-0578,memo,Lisa Fernandez,2023-09-18,IT security tip: do not click suspicious links,0,0.153
+DOC-0086,email,Sandra Wu,2021-09-10,Re: Whistleblower complaint — HR investigation findings,1,0.7281
+DOC-0243,email,Lisa Fernandez,2023-08-24,Re: Company picnic photos — link to shared album,0,0.0673
+DOC-0160,financial,Tom Dobbins,2019-02-18,Re: Company picnic photos — link to shared album,0,0.2035
+DOC-0525,email,Marcus Chen,2021-09-21,Please welcome David Kim to the Boston office!,0,0.1746
+DOC-0036,email,Jane Hartwell,2023-02-27,Re: Market allocation agreement with Northbridge Partners,1,0.7394
+DOC-0541,hr_document,Sandra Wu,2023-09-06,FYI: Vending machine refilled with healthier options,0,0.2486
+DOC-0171,email,Neha Sharma,2020-04-16,IT: New printer driver installed on floor 3,0,0.2135
+DOC-0643,email,Sergio Reyes,2020-10-26,Quarterly newsletter from HR — summer edition,0,0.3589
+DOC-0635,email,Lisa Fernandez,2020-10-10,Re: Update on office expansion to floor 6,0,0.0881
+DOC-0705,email,Lisa Fernandez,2020-05-20,Re: Update on office expansion to floor 6,0,0.1415
+DOC-0096,contract,Priya Nair,2020-04-14,Re: IP ownership dispute with former contractor Chen,1,0.7041
+DOC-0564,contract,Alistair Ford,2023-10-26,Reminder: submit your timesheet before noon Friday,0,0.2438
+DOC-0241,financial,Lisa Fernandez,2020-09-16,Parking reminder: garage B level 2 reserved for visitors,0,0.1042
+DOC-0575,meeting_notes,Alistair Ford,2022-02-03,Re: Update on office expansion to floor 6,0,0.2266
+DOC-0461,memo,Brian Kowalski,2019-05-01,FYI: building fire drill Wednesday at 10 AM,0,0.3491
+DOC-0554,meeting_notes,Sergio Reyes,2019-04-26,Re: Conference room booking — Friday afternoon taken,0,0.289
+DOC-0659,memo,Brian Kowalski,2019-08-21,"Re: Coffee machine — broken again, sorry team",0,0.3072
+DOC-0207,email,Sergio Reyes,2023-03-14,Annual performance review schedule now posted on the intranet,0,0.0657
+DOC-0393,memo,Diane Tran,2020-01-06,Reminder: submit your timesheet before noon Friday,0,0.1515
+DOC-0398,email,Diane Tran,2022-12-06,Re: Update on office expansion to floor 6,0,0.1621
+DOC-0636,email,Alistair Ford,2019-10-08,Annual benefits enrollment closes November 15,0,0.2376
+DOC-0218,email,Derek Okonkwo,2022-05-25,FYI: building fire drill Wednesday at 10 AM,0,0.0055
+DOC-0005,email,Yuki Tanaka,2020-06-22,Executive briefing: regulatory inquiry response strategy,1,0.8251
+DOC-0670,email,Sergio Reyes,2020-11-21,Parking reminder: garage B level 2 reserved for visitors,0,0.3745
+DOC-0613,hr_document,Diane Tran,2023-03-05,IT: New printer driver installed on floor 3,0,0.2316
+DOC-0547,email,Lisa Fernandez,2023-05-10,FYI: building fire drill Wednesday at 10 AM,0,0.0691
+DOC-0099,email,Brian Kowalski,2020-01-03,Action required: antitrust compliance review of market share data,1,0.9329
+DOC-0574,financial,Derek Okonkwo,2023-11-17,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.1123
+DOC-0407,email,Sandra Wu,2019-04-17,"Re: Coffee machine — broken again, sorry team",0,0.1995
+DOC-0503,meeting_notes,Derek Okonkwo,2021-11-29,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.4583
+DOC-0048,email,Brian Kowalski,2021-06-15,Re: IP ownership dispute with former contractor Chen,1,0.7164
+DOC-0033,email,Diane Tran,2020-08-13,Re: Environmental compliance exemption request — urgent,1,0.7264
+DOC-0201,financial,Tom Dobbins,2023-03-13,Quarterly newsletter from HR — summer edition,0,0.1574
+DOC-0135,memo,Lisa Fernandez,2019-12-02,Executive briefing: regulatory inquiry response strategy,1,0.8118
+DOC-0028,email,Priya Nair,2019-04-04,Re: IP ownership dispute with former contractor Chen,1,0.8931
+DOC-0661,email,Brian Kowalski,2019-07-24,Congratulations to the sales team on Q3 results!,0,0.2057
+DOC-0231,email,Neha Sharma,2022-04-04,IT security tip: do not click suspicious links,0,0.5388
+DOC-0490,memo,Diane Tran,2020-09-20,Re: Conference room booking — Friday afternoon taken,0,0.2828
+DOC-0379,email,Alistair Ford,2022-01-30,IT security tip: do not click suspicious links,0,0.3646
+DOC-0289,memo,Craig Morrow,2021-08-26,Re: Holiday party planning — venue suggestions welcome,0,0.2616
+DOC-0419,email,Lisa Fernandez,2019-05-20,Birthday card for Susan in accounting — please sign by Friday,0,0.1303
+DOC-0392,email,Tom Dobbins,2021-06-24,Re: Office plants — anyone want to take them home for the holidays?,0,0.0475
+DOC-0593,email,Brian Kowalski,2022-10-26,Annual performance review schedule now posted on the intranet,0,0.2059
+DOC-0499,email,Sandra Wu,2021-01-27,Re: Fantasy football league — week 8 results,0,0.3743
+DOC-0139,financial,Priya Nair,2023-10-11,Re: Executive compensation revision — approval pending,1,0.7666
+DOC-0063,memo,Tom Dobbins,2021-07-19,Confidential: internal audit report Q2 — do not forward,1,0.9206
+DOC-0472,memo,Diane Tran,2022-05-04,FYI: Vending machine refilled with healthier options,0,0.3635
+DOC-0648,memo,Sergio Reyes,2022-02-16,IT: New printer driver installed on floor 3,0,0.1855
+DOC-0129,email,Derek Okonkwo,2023-12-08,Attached: pricing analysis showing competitor rate suppression,1,0.6377
+DOC-0730,memo,Sergio Reyes,2021-05-17,Re: Team outing — kayaking vs. escape room vote,0,0.0747
+DOC-0521,meeting_notes,Sandra Wu,2022-04-20,Re: Onboarding checklist — new hire starting Monday,0,0.0944
+DOC-0065,contract,Yuki Tanaka,2020-02-18,Executive briefing: regulatory inquiry response strategy,1,0.6899
+DOC-0015,email,Tom Dobbins,2019-07-13,Re: Executive compensation revision — approval pending,1,0.9079
+DOC-0157,email,Brian Kowalski,2020-11-08,Reminder: submit your timesheet before noon Friday,0,0.1356
+DOC-0041,email,Craig Morrow,2020-12-21,Confidential: internal audit report Q2 — do not forward,1,0.7702
+DOC-0493,contract,Sandra Wu,2021-07-23,Reminder: expense reports due by end of month,0,0.2035
+DOC-0380,contract,Marcus Chen,2019-03-12,Reminder: expense reports due by end of month,0,0.0049
+DOC-0188,email,Lisa Fernandez,2022-05-19,FYI: building fire drill Wednesday at 10 AM,0,0.3673
+DOC-0217,email,Rachel Bloom,2020-07-03,Re: Monday team lunch — Panera or Chipotle?,0,0.414
+DOC-0053,financial,Craig Morrow,2021-11-06,Re: IP ownership dispute with former contractor Chen,1,0.8954
+DOC-0338,contract,Sandra Wu,2020-08-08,IT reminder: your password expires in 7 days,0,0.1037
+DOC-0296,meeting_notes,Tom Dobbins,2020-12-26,Reminder: submit your timesheet before noon Friday,0,0.5244
+DOC-0252,meeting_notes,Diane Tran,2019-07-02,FYI: Vending machine refilled with healthier options,0,0.4428
+DOC-0462,email,Sergio Reyes,2019-02-13,Re: Update on office expansion to floor 6,0,0.2319
+DOC-0456,email,Lisa Fernandez,2020-06-03,IT security tip: do not click suspicious links,0,0.258
+DOC-0748,email,Priya Nair,2020-09-26,Annual performance review schedule now posted on the intranet,0,0.1021
+DOC-0270,email,Priya Nair,2023-12-24,Annual performance review schedule now posted on the intranet,0,0.3345
+DOC-0202,hr_document,Priya Nair,2023-06-13,Quarterly newsletter from HR — summer edition,0,0.1183
+DOC-0162,meeting_notes,Rachel Bloom,2019-04-01,Re: Company picnic photos — link to shared album,0,0.1583
+DOC-0556,email,Derek Okonkwo,2023-11-03,Re: Ergonomic chair requests — facilities form attached,0,0.1299
+DOC-0402,meeting_notes,Craig Morrow,2023-05-23,Quarterly newsletter from HR — summer edition,0,0.4286
+DOC-0477,email,Diane Tran,2019-09-06,Congratulations to the sales team on Q3 results!,0,0.1326
+DOC-0106,contract,Diane Tran,2020-11-02,Attached: board minutes approving the acquisition of Vantage LLC,1,0.989
+DOC-0566,contract,Craig Morrow,2019-06-22,Re: All-hands meeting — agenda attached,0,0.0088
+DOC-0390,meeting_notes,Lisa Fernandez,2023-04-05,"Free training session: Excel pivot tables, Tues 3 PM",0,0.4021
+DOC-0002,email,Tom Dobbins,2021-10-04,Re: Strategic acquisition targets — Project Eagle shortlist,1,0.7845
+DOC-0713,financial,Rachel Bloom,2023-11-12,Re: Onboarding checklist — new hire starting Monday,0,0.5238
+DOC-0562,email,Yuki Tanaka,2020-06-06,Re: Holiday party planning — venue suggestions welcome,0,0.6232
+DOC-0081,contract,Sandra Wu,2019-04-29,FWD: Rig bidding coordination — Thursday call confirmed,1,0.7445
+DOC-0206,email,Brian Kowalski,2021-05-18,"Free training session: Excel pivot tables, Tues 3 PM",0,0.3579
+DOC-0035,memo,Brian Kowalski,2022-05-28,Attached: amended NDA with Acme Corp — please review before Friday,1,0.8423
+DOC-0509,memo,Neha Sharma,2020-10-18,IT reminder: your password expires in 7 days,0,0.1564
+DOC-0428,financial,Marcus Chen,2023-05-22,Re: Company picnic photos — link to shared album,0,0.175
+DOC-0455,email,Sergio Reyes,2019-05-06,Re: Onboarding checklist — new hire starting Monday,0,0.495
+DOC-0367,financial,Marcus Chen,2023-12-17,IT: New printer driver installed on floor 3,0,0.3189
+DOC-0092,contract,Derek Okonkwo,2020-12-20,Confidential: internal audit report Q2 — do not forward,1,0.6279
+DOC-0340,meeting_notes,Yuki Tanaka,2020-09-22,Re: Company picnic photos — link to shared album,0,0.2302
+DOC-0565,contract,Yuki Tanaka,2019-12-31,Reminder: submit your timesheet before noon Friday,0,0.1487
+DOC-0346,financial,Rachel Bloom,2019-10-31,FYI: Vending machine refilled with healthier options,0,0.4348
+DOC-0242,financial,Neha Sharma,2020-04-28,Parking reminder: garage B level 2 reserved for visitors,0,0.1047
+DOC-0014,financial,Sandra Wu,2021-07-31,Re: IP ownership dispute with former contractor Chen,1,0.9615
+DOC-0316,email,Marcus Chen,2021-02-26,IT security tip: do not click suspicious links,0,0.112
+DOC-0601,memo,Diane Tran,2019-12-22,Re: Ergonomic chair requests — facilities form attached,0,0.0942
+DOC-0388,hr_document,Lisa Fernandez,2022-09-18,FYI: Vending machine refilled with healthier options,0,0.3756
+DOC-0274,memo,Derek Okonkwo,2021-01-02,FYI: building fire drill Wednesday at 10 AM,0,0.2631
+DOC-0167,financial,Neha Sharma,2022-02-04,FYI: Vending machine refilled with healthier options,0,0.2723
+DOC-0744,email,Marcus Chen,2023-04-12,Re: Ergonomic chair requests — facilities form attached,0,0.088
+DOC-0647,email,Priya Nair,2022-04-19,Re: Team outing — kayaking vs. escape room vote,0,0.2662
+DOC-0485,email,Rachel Bloom,2021-03-27,FYI: building fire drill Wednesday at 10 AM,0,0.1199
+DOC-0733,email,Sergio Reyes,2023-01-01,FYI: building fire drill Wednesday at 10 AM,0,0.2293
+DOC-0505,memo,Neha Sharma,2023-12-14,Re: Monday team lunch — Panera or Chipotle?,0,0.2692
+DOC-0244,memo,Jane Hartwell,2022-01-19,Re: Office plants — anyone want to take them home for the holidays?,0,0.2163
+DOC-0567,financial,Alistair Ford,2022-05-14,FYI: building fire drill Wednesday at 10 AM,0,0.369
+DOC-0563,financial,Priya Nair,2019-12-28,FYI: building fire drill Wednesday at 10 AM,0,0.2598
+DOC-0687,email,Sandra Wu,2022-11-01,Re: Fantasy football league — week 8 results,0,0.1719
+DOC-0190,email,Marcus Chen,2019-05-01,IT security tip: do not click suspicious links,0,0.1132
+DOC-0700,email,Priya Nair,2021-08-06,FYI: Vending machine refilled with healthier options,0,0.1958
+DOC-0476,email,Jane Hartwell,2022-02-03,Parking reminder: garage B level 2 reserved for visitors,0,0.1061
+DOC-0682,email,Tom Dobbins,2022-05-12,Re: Monday team lunch — Panera or Chipotle?,0,0.2332
+DOC-0511,email,Craig Morrow,2019-09-02,Annual performance review schedule now posted on the intranet,0,0.3974
+DOC-0059,email,Sergio Reyes,2020-07-15,Confidential: internal audit report Q2 — do not forward,1,0.6044
+DOC-0475,email,Yuki Tanaka,2022-12-13,Please welcome David Kim to the Boston office!,0,0.4973
+DOC-0561,email,Diane Tran,2021-07-26,Birthday card for Susan in accounting — please sign by Friday,0,0.1488
+DOC-0253,memo,Rachel Bloom,2022-10-06,"FYI: office kitchen cleaned, please label your food",0,0.106
+DOC-0022,email,Alistair Ford,2020-08-03,FWD: Confidential settlement terms — do not distribute,1,0.9008
+DOC-0314,email,Craig Morrow,2021-01-15,Parking reminder: garage B level 2 reserved for visitors,0,0.2004
+DOC-0460,contract,Priya Nair,2023-05-15,Reminder: expense reports due by end of month,0,0.3063
+DOC-0161,email,Rachel Bloom,2021-08-26,Re: Fantasy football league — week 8 results,0,0.2655
+DOC-0277,email,Sandra Wu,2021-05-04,Birthday card for Susan in accounting — please sign by Friday,0,0.227
+DOC-0192,email,Diane Tran,2019-01-02,"Free training session: Excel pivot tables, Tues 3 PM",0,0.3393
+DOC-0386,hr_document,Priya Nair,2019-02-18,Re: All-hands meeting — agenda attached,0,0.1018
+DOC-0414,meeting_notes,Neha Sharma,2021-06-25,Birthday card for Susan in accounting — please sign by Friday,0,0.119
+DOC-0492,contract,Lisa Fernandez,2019-06-26,Re: Team outing — kayaking vs. escape room vote,0,0.2196
+DOC-0344,memo,Brian Kowalski,2019-06-22,IT: New printer driver installed on floor 3,0,0.0882
+DOC-0309,email,Marcus Chen,2019-02-26,Re: Monday team lunch — Panera or Chipotle?,0,0.4266
+DOC-0662,meeting_notes,Tom Dobbins,2019-06-15,Annual benefits enrollment closes November 15,0,0.216
+DOC-0131,email,Yuki Tanaka,2019-11-24,Re: Whistleblower complaint — HR investigation findings,1,0.3924
+DOC-0664,email,Diane Tran,2020-02-17,Re: Update on office expansion to floor 6,0,0.1903
+DOC-0100,hr_document,Alistair Ford,2021-07-09,Re: Destruction of records — legal hold notice to follow,1,0.6982
+DOC-0373,email,Rachel Bloom,2019-07-09,IT: Scheduled maintenance window Saturday 2–4 AM,0,0.2568
+DOC-0088,memo,Marcus Chen,2023-02-04,Action required: antitrust compliance review of market share data,1,0.4794
+DOC-0459,financial,Rachel Bloom,2022-08-26,IT security tip: do not click suspicious links,0,0.0175
+DOC-0331,contract,Derek Okonkwo,2020-12-01,IT: New printer driver installed on floor 3,0,0.2499
+DOC-0215,contract,Rachel Bloom,2021-04-26,Congratulations to the sales team on Q3 results!,0,0.349
+DOC-0467,contract,Derek Okonkwo,2021-03-02,Congratulations to the sales team on Q3 results!,0,0.1611
+DOC-0122,contract,Jane Hartwell,2023-02-11,Memo: Employee monitoring program expansion — legal sign-off needed,1,0.4947
+DOC-0615,email,Neha Sharma,2019-06-08,FYI: Vending machine refilled with healthier options,0,0.512
+DOC-0021,financial,Brian Kowalski,2020-08-07,Re: Whistleblower complaint — HR investigation findings,1,0.617
+DOC-0701,email,Derek Okonkwo,2019-02-27,"FYI: office kitchen cleaned, please label your food",0,0.1468
+DOC-0072,email,Derek Okonkwo,2019-03-05,Re: Executive compensation revision — approval pending,1,0.7132
+DOC-0107,email,Priya Nair,2021-01-21,Restricted: merger agreement draft v4 — not for circulation,1,0.7176
+DOC-0271,email,Derek Okonkwo,2021-03-18,"FYI: office kitchen cleaned, please label your food",0,0.3358
+DOC-0436,email,Priya Nair,2021-05-29,IT: New printer driver installed on floor 3,0,0.5197
+DOC-0103,email,Brian Kowalski,2022-07-27,Re: Q3 pricing strategy discussion — see attached amended proposal,1,0.626
