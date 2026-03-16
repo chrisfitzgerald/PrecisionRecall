@@ -32,6 +32,7 @@ h2 {
     color: #4b5563;
     max-width: 700px;
     margin: 0 auto;
+    text-align: center !important;
 }
 
 /* ── Info cards (Section 1) ──────────────────────────────────────────────── */

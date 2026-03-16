@@ -5,8 +5,8 @@ from pathlib import Path
 SEED = 42
 rng = np.random.default_rng(SEED)
 
-N_RESPONSIVE = 150
-N_NON_RESPONSIVE = 600
+N_RESPONSIVE = 600
+N_NON_RESPONSIVE = 2400
 N_TOTAL = N_RESPONSIVE + N_NON_RESPONSIVE
 
 DOC_TYPES = ["email", "memo", "contract", "financial", "meeting_notes", "hr_document"]
